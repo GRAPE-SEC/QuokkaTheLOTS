@@ -1,4 +1,4 @@
-# 디시 인사이드를 활용한 LOTS(living off threat sites)
+# 디시 인사이드를 활용한 LOTS(living off threat sites) 버전 1
 
 ## 선정 이유
 
