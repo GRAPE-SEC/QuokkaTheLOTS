@@ -88,3 +88,7 @@ LOTS를 구현할 때에 우리가 넣은 명령어를 실행하고 나서 결�
 ![alt text](img/image-44.png)
 
 그리고 지금 이 오류로 인해 댓글 다는 과정이 안되어서 일단 1차 종료... 2025-08-30
+
+테스트를 위해 쿠키나 모든 필요한 값들을 하드코딩 해놓은 [test.py](https://github.com/GRAPE-SEC/QuokkaTheLOTS/tree/main/poc/dc-lots/DC_Lots_ver2/test.py)와 
+
+자동으로 가져올 수 있도록 설정한 [test2.py](https://github.com/GRAPE-SEC/QuokkaTheLOTS/tree/main/poc/dc-lots/DC_Lots_ver2/test2.py)를 구현해 테스트해본 결과 `test.py`는 잘 작동하는데 `test2.py`는 올바른 방법으로 이용해달라고 한다. 왜지?
